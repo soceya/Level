@@ -189,7 +189,7 @@ namespace AutoLevelup
                     tipo = " Lane";
                 }
             }
-            else if (Player.BaseSkinName == "KogMaw") abilitySequence = new int[] { 2, 3, 1, 2, 3, 4, 2, 3, 2, 3, 4, 2, 3, 1, 1, 4, 1, 1 };
+            else if (Player.BaseSkinName == "KogMaw") abilitySequence = new int[] { 3, 2, 1, 2, 3, 4, 2, 3, 2, 3, 4, 2, 3, 1, 1, 4, 1, 1 };
             else if (Player.BaseSkinName == "Leblanc") abilitySequence = new int[] { 1, 2, 3, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "LeeSin")
             {
@@ -284,7 +284,7 @@ namespace AutoLevelup
                 }
             }
             else if (Player.BaseSkinName == "Olaf") abilitySequence = new int[] { 3, 2, 1, 3, 3, 4, 3, 2, 3, 2, 4, 2, 2, 1, 1, 4, 1, 1 };
-            else if (Player.BaseSkinName == "Orianna") abilitySequence = new int[] { 1, 2, 3, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
+            else if (Player.BaseSkinName == "Orianna") abilitySequence = new int[] { 3, 1, 2, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "Pantheon") abilitySequence = new int[] { 1, 2, 3, 1, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
             else if (Player.BaseSkinName == "Poppy") abilitySequence = new int[] { 2, 1, 3, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "Quinn") abilitySequence = new int[] { 1, 3, 2, 1, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
@@ -353,7 +353,7 @@ namespace AutoLevelup
             else if (Player.BaseSkinName == "Sona") abilitySequence = new int[] { 1, 2, 1, 2, 1, 4, 3, 1, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "Soraka") abilitySequence = new int[] { 2, 1, 3, 2, 2, 4, 3, 3, 3, 3, 4, 2, 2, 1, 1, 4, 1, 1 };
             else if (Player.BaseSkinName == "Swain") abilitySequence = new int[] { 2, 3, 1, 3, 3, 4, 3, 1, 3, 1, 4, 1, 1, 2, 2, 4, 2, 2 };
-            else if (Player.BaseSkinName == "Syndra") abilitySequence = new int[] { 1, 2, 3, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
+            else if (Player.BaseSkinName == "Syndra") abilitySequence = new int[] { 1, 3, 1, 2, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
             else if (Player.BaseSkinName == "Talon") abilitySequence = new int[] { 2, 3, 1, 2, 2, 4, 2, 1, 2, 1, 4, 1, 1, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "Taric") abilitySequence = new int[] { 3, 2, 1, 2, 2, 4, 2, 3, 2, 3, 4, 3, 3, 1, 1, 4, 1, 1 };
             else if (Player.BaseSkinName == "Teemo") abilitySequence = new int[] { 1, 3, 2, 3, 3, 4, 3, 1, 3, 1, 4, 1, 1, 2, 2, 4, 2, 2 };
@@ -424,7 +424,7 @@ namespace AutoLevelup
             else if (Player.BaseSkinName == "Volibear") abilitySequence = new int[] { 2, 1, 3, 2, 2, 4, 2, 3, 2, 3, 4, 3, 3, 1, 1, 4, 1, 1 };
             else if (Player.BaseSkinName == "Warwick") abilitySequence = new int[] { 2, 1, 3, 2, 2, 4, 2, 1, 2, 1, 4, 1, 1, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "MonkeyKing") abilitySequence = new int[] { 3, 1, 2, 3, 3, 4, 3, 1, 3, 1, 4, 1, 1, 2, 2, 4, 2, 2 };
-            else if (Player.BaseSkinName == "Xerath") abilitySequence = new int[] { 1, 3, 2, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
+            else if (Player.BaseSkinName == "Xerath") abilitySequence = new int[] { 1, 3, 1, 2, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
             else if (Player.BaseSkinName == "XinZhao")
             {
                 if (Smite != SpellSlot.Unknown)
